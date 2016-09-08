@@ -20,7 +20,7 @@
 				<div id="header-wrapper">
 					<div id="header" class="container">
 
-						<!-- Logo -->
+						<!-- Logoazxz -->
 							<a href="index.php" class="image centered"><img src="images/logo.png" height="250"  alt="" /></a>
 						<div class="row">
 							<div class="12u 12u(mobile)">
